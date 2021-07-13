@@ -1,5 +1,6 @@
 ---
 # This manifest deploys a Python Flask application with a Cloudant database
+# new version
 applications:
 - name: lab-bluemix-cf-thr
   path: .
